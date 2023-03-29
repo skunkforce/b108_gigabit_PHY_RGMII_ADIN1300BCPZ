@@ -2115,7 +2115,7 @@
       (reference "U3") (unit 1) (value "TLV71318PQDBVRQ1") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/0861efd3-3cb4-48c3-b5a2-ed5e66477613"
-      (reference "Y1") (unit 1) (value "Crystal_GND24_Small") (footprint "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm")
+      (reference "Y1") (unit 1) (value "25MHz") (footprint "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm")
     )
   )
 )
